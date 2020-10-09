@@ -26,6 +26,7 @@ Create directories for API and mashup pages
 
 	mkdir data/01-raw-apis
 	mkdir data/01-raw-mashups
+	mkdir data/02-crunchbase
 
 Create indices for APIs and mashups
 
